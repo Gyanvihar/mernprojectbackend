@@ -9,6 +9,13 @@ What it means: Set up a secure system where users can register, log in, and reco
 
 Additional Point (JWT Token): Use JWT (JSON Web Tokens) for added security.
 
+
+About JWT:-
+A JSON web token is JSON (JavaScript object notation) with some extra structure. JWTs include a header and payload that use the JSON format. Optionally, the tokens can be encrypted or signed with a message authentication code (MAC). Signed tokens are commonly referred to as JSON web signatures (JWS) and encrypted tokens as JSON web encryption (JWE).
+
+How It works:-
+![token-based-authentication](https://github.com/Gyanvihar/mernprojectbackend/assets/92887173/ac0e51f6-b6b2-4b73-a82d-e9b73d030df4)
+
 2. Secrets Posting Section :
 What it means: Create a friendly home screen where users can share secret messages. Each user can post only one secret.
 
