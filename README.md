@@ -50,9 +50,9 @@ npm start
 
 
 https://mernabhiapplication.netlify.app
-
+![Screenshot (275)](https://github.com/Gyanvihar/mernprojectbackend/assets/92887173/76a449e5-253b-4d11-83ea-89a01e365802)
 ![Screenshot (276)](https://github.com/Gyanvihar/mernprojectbackend/assets/92887173/7c0ce3a8-b429-46d5-b262-5b2198aad052)
 ![Screenshot (274)](https://github.com/Gyanvihar/mernprojectbackend/assets/92887173/fd9e3b33-d399-4b88-9352-bace951c3363)
-![Screenshot (275)](https://github.com/Gyanvihar/mernprojectbackend/assets/92887173/76a449e5-253b-4d11-83ea-89a01e365802)
+
 
 
